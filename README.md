@@ -36,7 +36,7 @@ In order to start using the testnet you will need to take the following steps:
 
 4. Follow the prompts as listed below
 
-![image](Screenshots/puppeth_config.png)
+![image](Screenshots/puppeth_config2.png)
 
 5. Next open another terminal window and change directory into the folder you installed geth in.
 
@@ -57,6 +57,11 @@ In order to start using the testnet you will need to take the following steps:
 ![image](Screenshots/change_network.png)
 
 10. Click on Add Custom Node and enter in the information as listed below:
+
+- Then network name is neonet
+- The currency is ETH
+- The chain id is: 3232
+- The URL is https://127.0.0.1:30303
 
 ![image](Screenshots/custom_node.png)
 
