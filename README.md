@@ -48,7 +48,7 @@ In order to start using the testnet you will need to take the following steps:
 
 - ./geth --datadir node-1 --unlock "F1EF32FaA13c3aD67F4bb45216C2d8966d0bfAf3" --mine --rpc --allow-insecure-unlock
 
-- ./geth --datadir node-2 --unlock "E8B971aEa028bb46E6580B5DFa959B4cef26FA40" --mine --port 30304 --bootnodes "enode://F1EF32FaA13c3aD67F4bb45216C2d8966d0bfAf3@127.0.0.1:30303" --ipcdisable --allow-insecure-unlock
+- ./geth --datadir node-2 --unlock "E8B971aEa028bb46E6580B5DFa959B4cef26FA40" --mine --port 30304 --bootnodes "enode://ad4e46f911c4147927268d642a68cefe36a1d0d189fe9838e00d3d9d84349b1af98d262b50f5a07974448413b8596a422dcdff10c563838e665d3b657228b4ec@127.0.0.1:30303" --ipcdisable --allow-insecure-unlock
 
 8. Type in the password provided by the admin
 
